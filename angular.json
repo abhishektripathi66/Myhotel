@@ -23,6 +23,9 @@
             "scripts": []
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/Myhotel/"
+            },
             "production": {
               "budgets": [
                 {
